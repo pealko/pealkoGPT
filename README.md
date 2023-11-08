@@ -1,1 +1,1 @@
-# DiscordGPT
+# PealkoGPT
